@@ -1,4 +1,3 @@
-```mermaid
 graph TD;
   A[Selection function] -->B(Effective completeness)
   A --> C(Color and volume cuts)
@@ -12,4 +11,3 @@ graph TD;
   G --> I(Poisson-Jeans Solver)
   F --> J(Maximum Likelihood/MCMC)
   I --> J
-```
